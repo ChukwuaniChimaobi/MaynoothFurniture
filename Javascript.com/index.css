@@ -1,0 +1,23 @@
+#h1{
+    font-size: 2em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: blue;
+    font-style: italic;
+}
+
+#paragraph{
+    color: blue;
+    font-weight: bold;
+    font-size: larger;
+}
+
+.Intro{
+    font-size: larger;
+    color: blue;
+    /* font-family: 'Arial Narro; */
+    /* font-style: italic; */
+}
+#select{
+    width: 15em;
+}
+
